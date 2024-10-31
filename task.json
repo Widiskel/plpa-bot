@@ -1,3 +1,44 @@
 {
-  "available_task": [2, 3, 4, 5, 6, 7, 9, 10, 11, 12]
+  "available_task": [
+    {
+      "key": "isFollowX",
+      "value": 2
+    },
+    {
+      "key": "isJoinCommunity",
+      "value": 3
+    },
+    {
+      "key": "isFollowIgPalapa",
+      "value": 6
+    },
+    {
+      "key": "isFollowIgBittime",
+      "value": 7
+    },
+    {
+      "key": "isFollowXBittime",
+      "value": 3
+    },
+    {
+      "key": "isJoinCommunityBittime",
+      "value": 5
+    },
+    {
+      "key": "isRegisterBittimeAccount",
+      "value": 8
+    },
+    {
+      "key": "isFollowCatidChannel",
+      "value": 10
+    },
+    {
+      "key": "isPlayCatid",
+      "value": 11
+    },
+    {
+      "key": "isFollowPlpaChannel",
+      "value": 12
+    }
+  ]
 }
